@@ -2,7 +2,6 @@
 
 > 📅 **Internship Duration:** 15 May 2025 – 15 June 2025  
 > 🏢 **Company:** Graphionic Infotech, Surat (Remote)  
-> 👨‍💻 **Intern:** Mann Patel  
 > 🧠 **Focus Areas:**  
 > - Conversational AI using Retrieval-Augmented Generation (RAG)  
 > - Video transcript summarization using Gemini AI
