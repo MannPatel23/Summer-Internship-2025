@@ -1,20 +1,20 @@
 # One-Month Remote Internship @ Graphionic Infotech
 
-> 📅 **Internship Duration:** 15 May 2025 – 15 June 2025  
-> 🏢 **Company:** Graphionic Infotech, Surat (Remote)  
-> 🧠 **Focus Areas:**  
+> **Internship Duration:** 15 May 2025 – 15 June 2025  
+> **Company:** Graphionic Infotech, Surat (Remote)  
+> **Focus Areas:**  
 > - Conversational AI using Retrieval-Augmented Generation (RAG)  
 > - Video transcript summarization using Gemini AI
 
 ---
 
-## 📖 Introduction
+## Introduction
 
 This README serves as a weekly journal of my month-long remote internship at **Graphionic Infotech**. During this time, I worked on two real-world AI applications involving **Large Language Models (LLMs)**, vector databases, and modern APIs. The journey was a mix of coding, exploration, integration, and deployment.
 
 ---
 
-## 🗓 Weekly Highlights
+## Weekly Highlights
 
 ### Week 1 (May 15 – May 21): Kickoff & Setup
 - Completed onboarding and gained clarity on project expectations.
@@ -43,9 +43,9 @@ This README serves as a weekly journal of my month-long remote internship at **G
 
 ---
 
-## 🚀 Projects Overview
+## Projects Overview
 
-### 🧠 Conversational AI using RAG
+### Conversational AI using RAG
 A command-line chatbot that retrieves relevant document chunks using **FAISS** and generates responses using **Claude** or **LLaMA2**. Follows a structured _retrieve-then-generate_ approach.
 
 **Tech Stack:** AWS Bedrock, Claude API, LLaMA2, LangChain, FAISS, Python  
@@ -53,7 +53,7 @@ A command-line chatbot that retrieves relevant document chunks using **FAISS** a
 
 ---
 
-### 🎥 YouTube Transcript Summarizer
+### YouTube Transcript Summarizer
 A web application that fetches video transcripts and produces concise summaries in multiple formats using **Google Gemini Pro API**.
 
 **Tech Stack:** Gemini Pro API, YouTube Data API, Python, Streamlit  
@@ -61,7 +61,7 @@ A web application that fetches video transcripts and produces concise summaries 
 
 ---
 
-## 🧠 Skills & Concepts Explored
+## Skills & Concepts Explored
 
 - Retrieval-Augmented Generation (RAG)
 - FAISS-based semantic search and document retrieval
@@ -72,7 +72,7 @@ A web application that fetches video transcripts and produces concise summaries 
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Languages:** Python  
 - **Frameworks:** Streamlit, LangChain  
@@ -83,7 +83,7 @@ A web application that fetches video transcripts and produces concise summaries 
 
 ---
 
-## ✅ Outcomes
+## Outcomes
 
 - Completed two impactful AI-based mini-projects
 - Understood full-stack development of LLM-powered apps
@@ -92,7 +92,7 @@ A web application that fetches video transcripts and produces concise summaries 
 
 ---
 
-## 🙌 Gratitude
+## Gratitude
 
 Thanks to the **Graphionic Infotech** team and mentor for providing this valuable opportunity. The experience helped me translate concepts into practical applications while working with the latest AI tools.
 
