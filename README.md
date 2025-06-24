@@ -1,4 +1,4 @@
-# 🌟 One-Month Remote Internship @ Graphionic Infotech
+# One-Month Remote Internship @ Graphionic Infotech
 
 > 📅 **Internship Duration:** 15 May 2025 – 15 June 2025  
 > 🏢 **Company:** Graphionic Infotech, Surat (Remote)  
